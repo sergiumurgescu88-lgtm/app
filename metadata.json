@@ -1,0 +1,6 @@
+{
+  "name": "Chaturbate Extension Hub & Bot Engine",
+  "description": "Extensie profesională Chrome Manifest V3 și backend Node.js pentru automatizare, tracking tip-uri în timp real și management Chaturbate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
